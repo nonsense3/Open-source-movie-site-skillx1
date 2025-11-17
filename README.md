@@ -2,13 +2,12 @@
   
 # 🎬 CineNext
 # When tech meets Cinema.
-
 An open source movie website for discovering and exploring a world of movies.
 <br />
 <br />
 A project by PIXEL BITS
-
 </div>
+<img width="1842" height="955" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/ede277f2-f80d-4860-8fac-806ac8d3700c" /> 
 
 ## 📖 About The Project
 
@@ -35,9 +34,10 @@ This project was built by the **PIXEL BITS** team as a showcase of modern web de
 <br />
 
 ## 🖼️ Project Screenshots
-| Homepage | Search Results |
-| :---: | :---: |
-|<img width="1622" height="970" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e91bd6d1-f7d1-4367-add9-22550f38f780" /> |<img width="1787" height="966" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/14339f4b-abf5-403d-aa1d-f28841b3a5f0" />|
+| When tech meets Cinema.| Homepage | Search Results |  
+| :---: | :---: | :---: |
+|<img width="1842" height="955" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/ede277f2-f80d-4860-8fac-806ac8d3700c" /> | <img width="1622" height="970" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e91bd6d1-f7d1-4367-add9-22550f38f780" /> |<img width="1787" height="966" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/14339f4b-abf5-403d-aa1d-f28841b3a5f0" />| 
+
 <br />
 
 ## 💻 Tech Stack
