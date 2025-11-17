@@ -45,7 +45,7 @@ function startSlideshow(){
 const rows = {
   bollywood: ['Panchayat','Dangal','Jawan','Pathaan','KGF','Kick','Saiyaara'],
   hollywood: ['Oppenheimer','Inception','Interstellar','Joker','Avengers','Dune','Matrix'],
-  action: ['War','Baby','Extraction','Mad Max','John Wick 4',],
+  action: ['War','Baby','Extraction','Mad Max','John Wick: Chapter 4',],
   scifi: ['Avatar','The Martian','Gravity','Tenet','Edge of Tomorrow','Oblivion']
 };
 
