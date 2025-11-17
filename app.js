@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 /* ============ PRELOADER ============ */
 window.addEventListener('load', () => {
-  const MINIMUM_DELAY = 5000; 
+  const MINIMUM_DELAY = 3500; 
   setTimeout(() => {
     const preloader = document.querySelector('.preloader');
     if (preloader) {
