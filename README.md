@@ -115,3 +115,5 @@ This project was brought to life by:
 * **Ankit Dey**
 * **Alekhya Mondal**
 * **Raj Kumar Das**
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
